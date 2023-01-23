@@ -1,0 +1,63 @@
+[
+    {
+        "id": 0,
+        "customerName": "Billy Bob",
+        "address": "123 Center Place",
+        "customerPhone": "555-555-5555",
+        "interest": 3.5,
+        "description": "Loan opened in 2015",
+        "termYears": 10,
+        "amount":10000,
+        "monthlyAmount":500,
+        "type":"Regular"
+        
+    },
+    {
+        "id": 1,
+        "customerName": "John Smith",
+        "address": "1234 West Place",
+        "customerPhone": "555-666-7777",
+        "interest": 6.5,
+        "description": "Loan opened in 2022",
+        "termYears": 5,
+        "amount":15000,
+        "monthlyAmount":250,
+        "type":"Regular"
+      },
+      {
+        "id": 2,
+        "customerName": "Jane Doe",
+        "address": "5678 South Place",
+        "customerPhone": "555-785-6752",
+        "interest": 3.0,
+        "description": "Loan opened in 2012",
+        "termYears": 15,
+        "amount":65000,
+        "monthlyAmount":600,
+        "type":"Auto"
+      },
+      {
+        "id": 3,
+        "customerName": "Jeremy Heiner",
+        "address": "1234 North Place",
+        "customerPhone": "555-642-7777",
+        "interest": 2.5,
+        "description": "Loan opened in 2020",
+        "termYears": 30,
+        "amount":210000,
+        "monthlyAmount":1100,
+        "type":"Housing"
+      },
+      {
+        "id": 4,
+        "course": "Kameron Heiner",
+        "address": "1234 Dog Street",
+        "customerPhone": "555-789-6541",
+        "interest": 6.5,
+        "description": "Loan opened in 2023",
+        "termYears": 1,
+        "amount":500,
+        "monthlyAmount":5,
+        "type":"Personal"
+      }
+]
